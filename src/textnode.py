@@ -5,7 +5,7 @@ from enum import Enum, auto
 class TextType(Enum):
     NORMAL = "normal"
     BOLD = "bold"
-    ITALIC = "italik"
+    ITALIC = "italic"
     CODE = "code"
     LINK = "link"
     IMAGE = "image"
